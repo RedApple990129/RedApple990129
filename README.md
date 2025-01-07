@@ -26,17 +26,12 @@ I'm a passionate developer specializing in **Three.js** and **Artificial Intelli
 
 ## Featured Projects
 
-### [Project Name](https://github.com/yourusername/projectname)
+### [WebGL Workshop Virtual Tour](https://www.finely-crafted.com)
 
-![Project Image](https://your-image-url.com/project.png)
+![Project Image](https://cdn3.f-cdn.com/files/download/198473592/2022-10-18_15h01_01.png)
 
-Brief description of your project. Highlight its features, technologies used, and the problem it solves.
+Developed an immersive virtual tour experience using WebGL for an online workshop. The project focused on creating a seamless, interactive, and visually engaging environment to enhance user engagement and learning. The virtual tour included dynamic animations, 3D elements, and intuitive navigation tailored for web accessibility.
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Personal Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=web)](https://yourwebsite.com)
 
 ## Latest Blog Posts
 
@@ -52,7 +47,7 @@ Brief description of your project. Highlight its features, technologies used, an
 
 If you find my projects helpful, consider buying me a coffee:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/RedApple990129)
 
 ---
 
