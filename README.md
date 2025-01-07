@@ -32,6 +32,18 @@ I'm a passionate developer specializing in **Three.js** and **Artificial Intelli
 
 Developed an immersive virtual tour experience using WebGL for an online workshop. The project focused on creating a seamless, interactive, and visually engaging environment to enhance user engagement and learning. The virtual tour included dynamic animations, 3D elements, and intuitive navigation tailored for web accessibility.
 
+### [WebVR ShowRoom](https://showroom.littleworkshop.fr/)
+
+![Project Image](https://cdn2.f-cdn.com/files/download/225705097/1.png)
+
+Developed an interactive WebVR showroom to showcase products in a virtual 3D environment. The project involved creating an immersive user experience accessible via web browsers, allowing users to explore products and features through VR-enabled devices or standard screens.
+
+### [Buzzworthy Studio - Creative websites that convert](https://buzzworthystudio.com/)
+
+![Project Image](https://cdn6.f-cdn.com/files/download/225705493/2.png)
+
+Three & next
+
 
 ## Latest Blog Posts
 
