@@ -6,11 +6,10 @@
 
 I'm a passionate developer specializing in **Three.js** and **Artificial Intelligence**. I love creating immersive 3D experiences and intelligent systems that solve real-world problems.
 
-- 🔭 I’m currently working on [Your Project Name](https://github.com/yourusername/yourproject)
 - 🌱 I’m learning advanced neural network architectures
 - 👯 I’m looking to collaborate on open-source AI projects
 - 💬 Ask me about Three.js, AI, or anything tech-related
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [redapple239031@gmail.com](mailto:redapple239031@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube blindfolded!
 
 ## Skills
