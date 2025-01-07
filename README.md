@@ -22,7 +22,7 @@ I'm a passionate developer specializing in **Three.js** and **Artificial Intelli
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedApple990129&show_icons=true&theme=radical)
 
 ## Featured Projects
 
