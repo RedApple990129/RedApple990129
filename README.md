@@ -44,6 +44,12 @@ Developed an interactive WebVR showroom to showcase products in a virtual 3D env
 
 Three & next
 
+### [3D Yacht Viewer | Three.js]()
+
+![Project Image](https://cdn2.f-cdn.com/files/download/237979320/yacht.png)
+
+This project features an interactive 3D yacht viewer, offering users an immersive exploration experience. Developed with Three.js and WebGL, it delivers realistic yacht models with detailed textures, lighting, and shadows. Key features include intuitive controls for rotation, zoom, and pan, dynamic hotspots for feature details, and responsive design optimized for all devices. Efficient asset management, lazy loading, and optimized rendering ensure smooth performance, making it perfect for showcasing high-end products.
+
 
 ## Latest Blog Posts
 
