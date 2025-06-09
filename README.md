@@ -8,7 +8,7 @@ I've developed many Agentic AI Systems and something like LLM.
 - 🌱 I’m learning advanced neural network architectures
 - 👯 I’m looking to collaborate on open-source AI projects
 - 💬 Ask me about AI, or anything tech-related
-- 📫 How to reach me: [redapple239031@gmail.com](mailto:redapple239031@gmail.com)
+- 📫 How to reach me: [topgamer183609@gmail.com](mailto:topgamer183609@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube blindfolded!
 
 ## Skills
